@@ -1,0 +1,12 @@
+.download-page-spinner{
+    padding-top: var(--size-500);
+    width: 100% !important;
+    height: 15rem !important;
+    text-align: center ;
+    
+}
+.download-page-spinner > svg{
+    width: 100%;
+    height: 100%;
+
+}

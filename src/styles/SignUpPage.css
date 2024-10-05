@@ -1,0 +1,57 @@
+.my-form  input, .my-form > textarea {
+    width: 100%;
+    padding: .6rem 2rem;
+    border-radius: .5rem;
+    border: 1px solid rgb(196 196 196);
+    font-weight: var(--fw-semi-bold);
+    font-size: 1.4rem;
+    line-height: var(--size-100);
+    color: var(--clr-accent-200);
+    font-family: var(--ff-secondary);
+}
+.email-otp-field {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border: 1px solid #c4c4c4;
+    border-radius: .5rem;
+}
+.otp-btn{
+        width: 6rem;
+        color: var(--clr-primary-100);
+        font-weight: 700;
+        cursor: pointer;
+}
+.signup-form-div{
+    max-width: 54rem;
+}
+.otp-btn:hover{
+        text-decoration: underline;
+}
+.email-otp-field > input,.email-otp-field > button{
+    border: none;
+    outline: none;
+}
+.my-form  input::-webkit-outer-spin-button,
+.my-form input::-webkit-inner-spin-button {
+        display: none;
+      }
+.my-form  textarea{
+    height: 13rem;
+}
+.my-form  input:focus,
+.my-form  textarea:focus {
+    outline: none;
+}
+.my-form  input::placeholder ,.my-form  textarea::placeholder{
+    color: var(--clr-accent-100);
+}
+.form-submit-btn {
+    width: 100%;
+    height: 3.5rem;
+    margin: 1rem 0;
+}
+.my-form{
+    padding: 0 1.5rem;
+}
+  

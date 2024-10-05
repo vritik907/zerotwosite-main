@@ -1,0 +1,24 @@
+{
+    "homePage": {
+        "SectionWithImageFirst": {
+            "imageSrc":"heroImage.jpg",
+            "imageAlt":null,
+            "headingInBlack": "Upload your memories and share with your",
+            "headingInBlue":"Friends & Families",
+            "paragraph": {
+                "beforeBreakPoint":"We are here to provide you the best service without any charges. You can upload or download any size , format , kind of content without any limitations. We know memories are precious, there should be no limitations to store them. ",
+                "afterBreakPoint":"Join us to never forgot your old memories!"
+            },
+            "button1": {
+                "text": "Upload now",
+                "redirection" : "/upload"
+            },
+            "button2": {
+                "text": "Search Content",
+                "redirection" : "/search"
+            },
+            "imageOnLeft":false
+            
+        }
+    }
+}

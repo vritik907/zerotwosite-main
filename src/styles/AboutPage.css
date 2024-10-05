@@ -1,0 +1,27 @@
+.about-main {
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 50rem;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #333;
+    font-size: 20px;
+    margin-top: 30px;
+}
